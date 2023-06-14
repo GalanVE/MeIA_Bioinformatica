@@ -1,0 +1,56 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+GO_Biological_Process_2021	medium-chain fatty acid catabolic process (GO:0051793)	1/5	2.248161e-03	2.644340e-02	0	0	6.245938e+02	3.808550e+03	ABHD1
+GO_Biological_Process_2021	medium-chain fatty acid biosynthetic process (GO:0051792)	1/6	2.697256e-03	2.644340e-02	0	0	4.996500e+02	2.955690e+03	ABHD1
+GO_Biological_Process_2021	skeletal myofibril assembly (GO:0014866)	1/8	3.594909e-03	2.644340e-02	0	0	3.568571e+02	2.008476e+03	MYH11
+GO_Biological_Process_2021	elastic fiber assembly (GO:0048251)	1/8	3.594909e-03	2.644340e-02	0	0	3.568571e+02	2.008476e+03	MYH11
+GO_Biological_Process_2021	negative regulation of substrate adhesion-dependent cell spreading (GO:1900025)	1/13	5.835903e-03	2.644340e-02	0	0	2.081146e+02	1.070484e+03	FBLN1
+GO_Biological_Process_2021	negative regulation of locomotion (GO:0040013)	1/13	5.835903e-03	2.644340e-02	0	0	2.081146e+02	1.070484e+03	FBLN1
+GO_Biological_Process_2021	negative regulation of cell morphogenesis involved in differentiation (GO:0010771)	1/13	5.835903e-03	2.644340e-02	0	0	2.081146e+02	1.070484e+03	FBLN1
+GO_Biological_Process_2021	plasma membrane tubulation (GO:0097320)	1/13	5.835903e-03	2.644340e-02	0	0	2.081146e+02	1.070484e+03	BIN3
+GO_Biological_Process_2021	cardiac cell development (GO:0055006)	1/13	5.835903e-03	2.644340e-02	0	0	2.081146e+02	1.070484e+03	MYH11
+GO_Biological_Process_2021	smooth muscle contraction (GO:0006939)	1/14	6.283564e-03	2.644340e-02	0	0	1.920962e+02	9.738925e+02	MYH11
+GO_Biological_Process_2021	anterograde synaptic vesicle transport (GO:0048490)	1/15	6.731046e-03	2.644340e-02	0	0	1.783661e+02	8.920131e+02	AP3B2
+GO_Biological_Process_2021	synaptic vesicle transport along microtubule (GO:0099517)	1/15	6.731046e-03	2.644340e-02	0	0	1.783661e+02	8.920131e+02	AP3B2
+GO_Biological_Process_2021	medium-chain fatty acid metabolic process (GO:0051791)	1/15	6.731046e-03	2.644340e-02	0	0	1.783661e+02	8.920131e+02	ABHD1
+GO_Biological_Process_2021	negative regulation of cellular component movement (GO:0051271)	1/15	6.731046e-03	2.644340e-02	0	0	1.783661e+02	8.920131e+02	FBLN1
+GO_Biological_Process_2021	regulation of stem cell proliferation (GO:0072091)	1/17	7.625474e-03	2.796007e-02	0	0	1.560547e+02	7.609634e+02	FBLN1
+GO_Biological_Process_2021	supramolecular fiber organization (GO:0097435)	2/351	1.019089e-02	3.111940e-02	0	0	1.608023e+01	7.374812e+01	BIN3;MYH11
+GO_Biological_Process_2021	extracellular matrix assembly (GO:0085029)	1/24	1.075034e-02	3.111940e-02	0	0	1.085217e+02	4.919093e+02	MYH11
+GO_Biological_Process_2021	cardiac muscle cell development (GO:0055013)	1/24	1.075034e-02	3.111940e-02	0	0	1.085217e+02	4.919093e+02	MYH11
+GO_Biological_Process_2021	cardiac muscle cell differentiation (GO:0055007)	1/24	1.075034e-02	3.111940e-02	0	0	1.085217e+02	4.919093e+02	MYH11
+GO_Biological_Process_2021	muscle cell development (GO:0055001)	1/33	1.475517e-02	4.057672e-02	0	0	7.796484e+01	3.287124e+02	MYH11
+GO_Biological_Process_2021	axonal transport (GO:0098930)	1/36	1.608691e-02	4.132616e-02	0	0	7.127143e+01	2.943331e+02	AP3B2
+GO_Biological_Process_2021	anterograde axonal transport (GO:0008089)	1/37	1.653047e-02	4.132616e-02	0	0	6.928819e+01	2.842583e+02	AP3B2
+GO_Biological_Process_2021	negative regulation of cell-substrate adhesion (GO:0010812)	1/40	1.786007e-02	4.270887e-02	0	0	6.394872e+01	2.574056e+02	FBLN1
+GO_Biological_Process_2021	negative regulation of ERK1 and ERK2 cascade (GO:0070373)	1/50	2.228056e-02	4.998759e-02	0	0	5.087245e+01	1.935209e+02	FBLN1
+GO_Biological_Process_2021	regulation of substrate adhesion-dependent cell spreading (GO:1900024)	1/51	2.272163e-02	4.998759e-02	0	0	4.985250e+01	1.886637e+02	FBLN1
+GO_Biological_Process_2021	pyruvate metabolic process (GO:0006090)	1/55	2.448416e-02	5.179343e-02	0	0	4.615046e+01	1.712057e+02	LDHC
+GO_Biological_Process_2021	plasma membrane organization (GO:0007009)	1/64	2.843953e-02	5.715619e-02	0	0	3.953968e+01	1.407603e+02	BIN3
+GO_Biological_Process_2021	fatty acid catabolic process (GO:0009062)	1/70	3.106852e-02	5.715619e-02	0	0	3.609058e+01	1.252906e+02	ABHD1
+GO_Biological_Process_2021	fatty acid biosynthetic process (GO:0006633)	1/71	3.150607e-02	5.715619e-02	0	0	3.557321e+01	1.229971e+02	ABHD1
+GO_Biological_Process_2021	cytoskeleton-dependent cytokinesis (GO:0061640)	1/72	3.194344e-02	5.715619e-02	0	0	3.507042e+01	1.207751e+02	BIN3
+GO_Biological_Process_2021	negative regulation of cell adhesion (GO:0007162)	1/73	3.238064e-02	5.715619e-02	0	0	3.458160e+01	1.186216e+02	FBLN1
+GO_Biological_Process_2021	integrin-mediated signaling pathway (GO:0007229)	1/75	3.325451e-02	5.715619e-02	0	0	3.364358e+01	1.145081e+02	FBLN1
+GO_Biological_Process_2021	negative regulation of protein modification process (GO:0031400)	1/81	3.587191e-02	5.978652e-02	0	0	3.111094e+01	1.035310e+02	FBLN1
+GO_Biological_Process_2021	negative regulation of phosphorylation (GO:0042326)	1/86	3.804827e-02	6.154867e-02	0	0	2.927353e+01	9.569223e+01	FBLN1
+GO_Biological_Process_2021	negative regulation of MAPK cascade (GO:0043409)	1/94	4.152135e-02	6.524784e-02	0	0	2.674462e+01	8.508929e+01	FBLN1
+GO_Biological_Process_2021	positive regulation of cold-induced thermogenesis (GO:0120162)	1/97	4.282088e-02	6.542079e-02	0	0	2.590495e+01	8.161948e+01	PLAC8
+GO_Biological_Process_2021	positive regulation of metabolic process (GO:0009893)	1/113	4.972530e-02	7.259327e-02	0	0	2.218638e+01	6.658670e+01	PLAC8
+GO_Biological_Process_2021	negative regulation of cell motility (GO:2000146)	1/114	5.015535e-02	7.259327e-02	0	0	2.198894e+01	6.580476e+01	FBLN1
+GO_Biological_Process_2021	muscle contraction (GO:0006936)	1/129	5.658541e-02	7.819866e-02	0	0	1.939746e+01	5.570959e+01	MYH11
+GO_Biological_Process_2021	regulation of cell adhesion (GO:0030155)	1/133	5.829354e-02	7.819866e-02	0	0	1.880587e+01	5.345125e+01	FBLN1
+GO_Biological_Process_2021	regulation of cell motility (GO:2000145)	1/133	5.829354e-02	7.819866e-02	0	0	1.880587e+01	5.345125e+01	FBLN1
+GO_Biological_Process_2021	monocarboxylic acid metabolic process (GO:0032787)	1/143	6.255186e-02	8.191315e-02	0	0	1.747271e+01	4.843015e+01	LDHC
+GO_Biological_Process_2021	actin filament organization (GO:0007015)	1/152	6.636970e-02	8.296213e-02	0	0	1.642384e+01	4.454991e+01	BIN3
+GO_Biological_Process_2021	negative regulation of protein phosphorylation (GO:0001933)	1/152	6.636970e-02	8.296213e-02	0	0	1.642384e+01	4.454991e+01	FBLN1
+GO_Biological_Process_2021	regulation of ERK1 and ERK2 cascade (GO:0070372)	1/238	1.021602e-01	1.248625e-01	0	0	1.041878e+01	2.376744e+01	FBLN1
+GO_Biological_Process_2021	regulation of protein phosphorylation (GO:0001932)	1/266	1.135469e-01	1.357626e-01	0	0	9.304717e+00	2.024278e+01	FBLN1
+GO_Biological_Process_2021	positive regulation of multicellular organismal process (GO:0051240)	1/345	1.449846e-01	1.696628e-01	0	0	7.139172e+00	1.378665e+01	PLAC8
+GO_Biological_Process_2021	negative regulation of cell population proliferation (GO:0008285)	1/379	1.582069e-01	1.812787e-01	0	0	6.485780e+00	1.195882e+01	FBLN1
+GO_Biological_Process_2021	neutrophil degranulation (GO:0043312)	1/481	1.967901e-01	2.150169e-01	0	0	5.080990e+00	8.259747e+00	PLAC8
+GO_Biological_Process_2021	neutrophil activation involved in immune response (GO:0002283)	1/485	1.982706e-01	2.150169e-01	0	0	5.037965e+00	8.152045e+00	PLAC8
+GO_Biological_Process_2021	neutrophil mediated immunity (GO:0002446)	1/488	1.993793e-01	2.150169e-01	0	0	5.006160e+00	8.072664e+00	PLAC8
+GO_Biological_Process_2021	negative regulation of cellular process (GO:0048523)	1/566	2.277333e-01	2.408718e-01	0	0	4.297788e+00	6.358921e+00	FBLN1
+GO_Biological_Process_2021	positive regulation of transcription by RNA polymerase II (GO:0045944)	1/908	3.418028e-01	3.547010e-01	0	0	2.630099e+00	2.823468e+00	PLAC8
+GO_Biological_Process_2021	positive regulation of transcription, DNA-templated (GO:0045893)	1/1183	4.223899e-01	4.302119e-01	0	0	1.989107e+00	1.714265e+00	PLAC8
+GO_Biological_Process_2021	regulation of transcription by RNA polymerase II (GO:0006357)	1/2206	6.507822e-01	6.507822e-01	0	0	1.008277e+00	4.331357e-01	PLAC8
